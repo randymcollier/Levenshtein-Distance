@@ -1,0 +1,9 @@
+Project 2
+The edit distance between two strings x and y is the MINIMUM number of edit operations required to transform x into y.
+The commonly allowed edition operations include:
+- insertion: insert a character into a string;
+- deletion: delete a character from a string; and
+- replacement: replace a character of a string by another character.
+Write a Java program for edit distance. Your program should accept two input strings from key board and output the edit
+distance along with the sequence of operations needed to transform one string to the other.
+Due: April 29.
